@@ -1,0 +1,138 @@
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.csprojAssemblyReference.cache
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Form1.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\SST_Icon\SST_Icon\obj\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.csprojAssemblyReference.cache
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.MainForm.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\RF128466\source\repos\SST_Icon_Final_Final\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\HtmlAgilityPack.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\HtmlAgilityPack.pdb
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\HtmlAgilityPack.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.csprojAssemblyReference.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.MainForm.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.6\SST_Icon\obj\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.pdb
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csprojAssemblyReference.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.MainForm.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\RF128466\source\repos\Сейчас в релизе\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.pdb
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.dll
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.pdb
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.xml
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.AssemblyReference.cache
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.MainForm.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\rf129359\Downloads\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.pdb
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe.config
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.exe
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\SST_Icon.pdb
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.dll
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.dll
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.dll
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\CircularProgressBar.xml
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.pdb
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\HtmlAgilityPack.xml
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\bin\Release\WinFormAnimation.xml
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.AssemblyReference.cache
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.MainForm.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Helpbrowsers.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.HelpYourPC.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.Internetaccess.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.MenuForms.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.tempcookies.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Forms.UpdatePC.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.Properties.Resources.resources
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.GenerateResource.cache
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CoreCompileInputs.cache
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.csproj.CopyComplete
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.exe
+C:\Users\rf129359\source\repos\SST_Icon_v5.0.7\SST_Icon\obj\Release\SST_Icon.pdb
